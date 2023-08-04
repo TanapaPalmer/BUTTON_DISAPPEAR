@@ -6,7 +6,7 @@
     <img src="https://github.com/TanapaPalmer/BUTTON_DISAPPEAR/assets/119079803/74613124-b133-43d8-b372-e03080d8df22" height="250"/>
   </div>
   <br>
-  <p>"I'm building a very fun 'Button Disappear' project with JavaScript, HTML, and CSS."</p>
+  <p>I'm building a very fun 'Button Disappear' project with JavaScript, HTML, and CSS.</p>
 
   <hr>
 
